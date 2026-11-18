@@ -1,0 +1,14 @@
+# Local credentials and runtime state
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+data/
+dist/
+coverage/
+*.test
+*.exe
+*.log
+.go-toolchain.zip
+.toolchains/

@@ -1,0 +1,7 @@
+{
+  "listen_address": "127.0.0.1:8080",
+  "base_url": "http://127.0.0.1:8080",
+  "database_dsn_file": "C:\\absolute\\path\\to\\database-dsn.txt",
+  "root_key_file": "C:\\absolute\\path\\to\\root-key.txt",
+  "blob_root": "C:\\absolute\\path\\to\\blobs"
+}
