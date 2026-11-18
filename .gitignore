@@ -12,3 +12,6 @@ coverage/
 *.log
 .go-toolchain.zip
 .toolchains/
+.postgresql-test.zip
+.postgresql-test.zip.sha256
+.postgresql-test/
